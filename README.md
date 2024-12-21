@@ -5,7 +5,7 @@ pip install -r requirements.txt
 
 Управление ботом
 ```
-commands start   # Запустить бота
-commands stop    # Остановить бота
-commands status  # Проверить статус
+.\bot-control.ps1 start   # запустить бота
+.\bot-control.ps1 stop    # остановить бота
+.\bot-control.ps1 status  # проверить статус
 ```
