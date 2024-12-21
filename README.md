@@ -3,7 +3,9 @@
 pip install -r requirements.txt
 ```
 
-Для запуска сервера
+Управление ботом
 ```
-python bot.py
+commands start   # Запустить бота
+commands stop    # Остановить бота
+commands status  # Проверить статус
 ```
